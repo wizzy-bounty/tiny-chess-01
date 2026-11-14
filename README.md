@@ -1,4 +1,4 @@
-# tiny-chess-01 — a complete chess engine in 4,041 bytes of Python
+# tiny-chess-01 — a complete chess engine in 4,058 bytes of Python
 
 ## What this is
 
